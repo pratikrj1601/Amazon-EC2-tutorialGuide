@@ -17,7 +17,7 @@ you will find theory and practical implementention about how we can create remot
   <li> <b>Pay as you go Pricing:</b> AWS will charge according to the resources you have used.
 </ul><br>
 
-Using EC2 service you can create your virtual instance with Operating system likes Windows, Ubuntu, and various flavours of these operating system. also you can choose from various hardware configurations like how much RAM and HDD(hard disk) you want, how much CPUs you want. you can also add rules for allowing or blocking any type of network traffic to your instance. you can make your instance as a webserver. 
+<p style="text-align:justify;">Using EC2 service you can create your virtual instance with Operating system likes Windows, Ubuntu, and various flavours of these operating system. also you can choose from various hardware configurations like how much RAM and HDD(hard disk) you want, how much CPUs you want. you can also add rules for allowing or blocking any type of network traffic to your instance. you can make your instance as a webserver.</p> 
 
 ## About EC2 Free tier
 AWS Free Tier includes 750 hours of Linux and Windows t2.micro instances, ( t3.micro for the regions in which t2.micro is unavailable) each month for one year. 
