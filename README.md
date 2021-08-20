@@ -1,6 +1,6 @@
 
 # Welcome to Amazon EC2 tutorialGuide
-
+<h3 style="color:#ff0000">Danger</h3>
 Here I have given complete explanation about Amazon EC2 service in very easy and understandabale language. 
 you will find theory and practical implementention about how we can create remote instance using amazon EC2.
 
