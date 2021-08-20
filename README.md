@@ -1,2 +1,6 @@
-[amazonEC2github.txt](https://github.com/pratikrj1601/Amazon-EC2-tutorialGuide/files/7023074/amazonEC2github.txt)
-# Amazon-EC2-tutorialGuide
+
+# Welcome to Amazon EC2 tutorialGuide
+
+Here I have given detailed explanation about Amazon EC2 service and how we can create remote instance using amzon EC2.
+
+
