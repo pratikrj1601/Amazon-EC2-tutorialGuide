@@ -35,8 +35,28 @@ AWS Free Tier includes 750 hours of Linux and Windows t2.micro instances, ( t3.m
 
 ## What is Security Groups?
 
-## what is key Pair?
+<ul>
+  <li>A security group acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic.
+  <li>Inbound rules control the incoming traffic to your instance, and outbound rules control the outgoing traffic from your instance. When you launch an instance, you can specify one or more security groups.
+  <li>If you don't specify a security group, Amazon EC2 uses the default security group. You can add rules to each security group that allow traffic to or from its associated instances. 
+   <li>You can modify the rules for a security group at any time. New and modified rules are automatically applied to all instances that are associated with the security group.      <li>When Amazon EC2 decides whether to allow traffic to reach an instance, it evaluates all of the rules from all of the security groups that are associated with the instance.
+</ul>
 
+## what is key Pair?
+A key pair, consisting of a public key and a private key, is a set of security credentials that you use to prove your identity when connecting to an Amazon EC2 instance. Amazon EC2 stores the public key on your instance, and you store the private key. For Linux instances, the private key allows you to securely SSH into your instance. Anyone who possesses your private key can connect to your instances, so it's important that you store your private key in a secure place.
+  
+  
 ## What is .pem and .ppk file?
 
+.pem stands for Privacy Enhanced Mail which is most common format of certificates and cryptographic keys. the content is encoded in the BASE64 ASCII format which contains public and private keys.
+.ppk stands for Putty Private key which is required when you want to connect to your instance using putty.
 
+The .pem and .ppk files are similar because they are both private key file formats.
+ 
+The differences between .pem and .ppk are the following,
+ 
+System platform compatibility,
+Linux users — .pem file format
+Mac users — .pem file format
+Windows PowerShell users — .pem file format
+Windows PuTTY/Cygwin users — .ppk file format
