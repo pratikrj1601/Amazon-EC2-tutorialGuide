@@ -55,8 +55,9 @@ The .pem and .ppk files are similar because they are both private key file forma
  
 The differences between .pem and .ppk are the following,
  
-System platform compatibility,
-Linux users — .pem file format<br>
-Mac users — .pem file format<br>
-Windows PowerShell users — .pem file format<br>
-Windows PuTTY/Cygwin users — .ppk file format
+System platform compatibility,<br>
+Linux users —> .pem file format<br>
+Mac users —> .pem file format<br>
+Windows PowerShell users —> .pem file format<br>
+Windows PuTTY/Cygwin users —> .ppk file format
+
