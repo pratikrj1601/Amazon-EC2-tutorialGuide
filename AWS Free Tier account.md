@@ -1,46 +1,48 @@
 
 ## How to create a free Tier Account on AWS
 
-Step 1:Go to below mentioned URL
-URL : https://aws.amazon.com/
+<b>Step 1: Go to below mentioned URL</b><br>
+https://aws.amazon.com/
 
-Step 2: 
+<b>Step 2: Enter details</b>
 <ul>
   <li>Enter Email address, Password, Confirm Password and AWS Account Name
-</ul>
+</ul><br>
  
-Step 3: Enter Contact Information
+<b>Step 3: Enter Contact Information</b>
 <ul>
   <li>select Account type 
   <li>Enter Full name
   <li>Enter Phone Number
   <li>Select Country
   <li>add address and city
-</ul>
+</ul><br>
 
-- NOTE: Here you have to match your country code with your country otherwise AWS will not allowed to create an account.
+- <b>NOTE: Here you have to match your country code with your country otherwise AWS will not allowed to create an account.</b><br>
 
-Step 4 : Payment Infromation
+<b>Step 4 : Payment Infromation</b>
 - we have to add credit/debit card details because AWS will verify your card is working properly or not and for that aws will deduct Rs. 2.00
 - enter your credit/debit card number
 - expiration date
 - cardholder's name
 - CVV
 - Billing Address
-- do not required to give PAN card information
+- do not required to give PAN card information<br>
 
-Step 5: Verify your account
-- you will get an OTP from your bank enter it.
+<b>Step 5: Verify your account</b>
+- you will get an OTP from your bank enter it.<br>
 
-Step 6: Confirm you identity by entering your entering your mobile no
+<b>Step 6: Confirm you identity by entering your entering your mobile no</b>
 -  Before you can use your AWS account. you must verify your phone number. When you continue, the AWS automated system will contact you with a verification code.
--  Enter verification code ( OTP ) , which you receive on your mobile. 
+-  Enter verification code ( OTP ) , which you receive on your mobile. <br>
 
-Step 7: Select Basic plan ( Free )
-![image](https://user-images.githubusercontent.com/83777309/130324521-6e2d11da-83f4-43e5-9850-08c4bf12fa8a.png)
+<b>Step 7: Select Basic plan ( Free )</b><br>
+![image](https://user-images.githubusercontent.com/83777309/130324521-6e2d11da-83f4-43e5-9850-08c4bf12fa8a.png)<br>
 
-Step 8: Enter your role and interest which you prefer.
+<b>Step 8: </b><br>
+Enter your role and interest which you prefer.<br>
 
-Step 9: you have to select Root user and Login with your details.
+<b>Step 9: </b><br>
+you have to select Root user and Login with your details.<br>
 
-NOTE: Accounts are usually activated within a few minutes, but the process might take up to 24 hours.
+<b>NOTE: Accounts are usually activated within a few minutes, but the process might take up to 24 hours.</b><br>
