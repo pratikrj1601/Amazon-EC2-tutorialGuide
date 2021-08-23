@@ -75,14 +75,22 @@ This is your EC2 dashboard. as you can see curently we are in Mumbai region and 
 - You have to open Remote Desktop Application and you required DNS name, Username and Password inorder to connect. you will get DNS name and Username directly from AWS console. you have to click on get Password and it will ask to upload the pem file you already created at the time of instance creation.
 - upload the .pem file, click on Decrypt password and now you are ready to connect.
 
+![image](https://user-images.githubusercontent.com/83777309/130417218-50e0d687-a454-4496-8642-e5294dbe10ba.png)<br>
+
+- Now copy the DNS name to remote desktop application and click on connect.
+
 ![image](https://user-images.githubusercontent.com/83777309/130416921-38dbf6e7-11e1-42a2-aafa-bfe2d5b6233e.png)<br>
 
-
-![image](https://user-images.githubusercontent.com/83777309/130417218-50e0d687-a454-4496-8642-e5294dbe10ba.png)<br>
+- Now add username and passowrd and click on yes and wait for few minutes to start the instance.
 
 ![image](https://user-images.githubusercontent.com/83777309/130417304-f1321134-cc48-47e1-9ec9-b210bd643d13.png)<br>
 
+- As you can see we have successfully connected to Windows instance. Now you can perform your required task using this instance.
 ![image](https://user-images.githubusercontent.com/83777309/130417685-2c334a20-75e6-41e5-825f-999fbfad6806.png)<br>
+
+### NOTE: Do not forget to stop the instance once you have done with your work. for stopping the instance go to EC2 dashboard --> select the instance --> Actions --> stop instance.
+
+## I hope above steps will help you on how to create an Windows instance on AWS. THANK YOU !!!!
 
 
 
