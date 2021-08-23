@@ -68,13 +68,15 @@ This is your EC2 dashboard. as you can see curently we are in Mumbai region and 
 
 ![image](https://user-images.githubusercontent.com/83777309/130416723-40878f66-f7b0-4f3f-b533-c0fb8aa1391f.png)<br>
 
--
-
-![image](https://user-images.githubusercontent.com/83777309/130416806-3e407dad-e64c-4019-982a-7d14fa309424.png)<br>
+-Now select your instance, click on connect and go to RDP client where you can find the details on how we can connect.
 
 ![image](https://user-images.githubusercontent.com/83777309/130416877-2c36578e-e234-4553-ae0d-1cb2877754d0.png)<br>
 
+- You have to open Remote Desktop Application and you required DNS name, Username and Password inorder to connect. you will get DNS name and Username directly from AWS console. you have to click on get Password and it will ask to upload the pem file you already created at the time of instance creation.
+- upload the .pem file, click on Decrypt password and now you are ready to connect.
+
 ![image](https://user-images.githubusercontent.com/83777309/130416921-38dbf6e7-11e1-42a2-aafa-bfe2d5b6233e.png)<br>
+
 
 ![image](https://user-images.githubusercontent.com/83777309/130417218-50e0d687-a454-4496-8642-e5294dbe10ba.png)<br>
 
