@@ -10,7 +10,7 @@ you will find theory and practical implementention about how we can create remot
   <li>EC2 stands for Elastic compute cloud
   <li>An AWS EC2 instance is also called as computer, machine, box, PC and server.
   <li>Amazon Elastic compute cloud provides scalable computing capacity in the amazon web services (AWS) cloud. 
-  <li>If you use Amazon EC2, you do not require to calculate the cost for hardware and also it will give three major benefits an they are as follows:
+  <li>If you use Amazon EC2, you do not require to calculate the cost for hardware and also it will give three major benefits and they are as follows:
   
   <li> <b>Availability:</b> it means your remote machine or instance will run 24 * 7 and you will never face downtime.
   <li> <b>Scalability:</b> you can increase or decrease hardware configurations of EC2 instance at any point of time.
